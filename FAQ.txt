@@ -1,0 +1,67 @@
+Q: What is this thing?
+A: It’s a new model of computation based on geometry, flow, and torsion—not tapes and states. Think of it as what happens when lambda calculus, DNA, and a topology textbook walk into a bar and accidentally build a deterministic version of quantum mechanics.
+
+Non-determinism is hard for humans to understand and most cellular automata-style computation models are too simple. Geometry is the most natural way to actually understand non-Von Neumann computation.
+
+Please note that this was built first for students and computer scientists, and I can't please everyone.
+
+Q: Is this about Loop Quantum Gravity?
+A: Well yes, but actually no.
+
+It’s about computation.
+
+The fact that it just so happens to solve several decades-long standing problems in physics is frankly, not my fault.
+
+Q: Is this an elaborate troll to get back at Stephen Wolfram and Gerard 't Hooft for some slight?
+A: If it is, it wasn't done intentionally. They are both cited once each for important work. Maybe, however, the foundations of physics needed a reboot, and I just happened to have a dissatisfaction and a new manifold lying around.
+
+Q: Are you saying the Yang–Mills mass gap can’t be solved?
+A: I’m saying it might be a Lost Melody: a real number that’s recognizable but not computable.
+
+Normally these two phenomena are separate but once you turn computation into geometric process it utterly opens Pandora's box by unleashing the pathologies of real computation in the physical world.
+
+Cantor started this process a century and a half ago, and as of right now it seems that our luck avoiding issues with the reals outside of pure math has...just run out.
+
+As for why this hasn't been put together before, logicians naturally aren't interested in non-deterministic gauge theory. Why would they be?
+
+Q: Is this crankery?
+A: No. There’s actual category theory, geometric analysis, group theory, and citations to real math papers. I think you understand that no crank would even dream of writing such a paper. It's completely beyond their imagination. I'm far worse.
+
+Also: no TOE, no vibes, no rants about infinity or human consciousness. Just helices.
+
+Q: Why helices?
+A: Because they encode chirality, flow, and symbolic structure — and nature already uses them to store data. I just followed the twist.
+
+Q: This is just a clever representation!
+A: As far as the constructions made of helices go — think of it like a Lie group, but in reverse! Instead of having a group that is a manifold, we create a manifold and turn it into a Lie groupoid.
+
+The computation is manifold. The manifold is the computation.
+
+I know you can make the "mental leap" in your mind. Two objects are the same in math when they behave the same.
+
+Q: What if I don’t believe you?
+A: Great. Read the paper. Break the model. If you can come up with a perfectly verifiable, maximally expressive computer programming language that executes on real hardware that someone who isn't one of Lurie's students can actually understand, you win.
+
+(Also Bliokh deserves to be nominated for the Nobel in the future. The physical proof is already there, if one knows where to search and understands representation theory!)
+
+Q: Are you trying to replace quantum computation?
+A: No. But I’m trying to build a clean model of computation that happens to be geometrically expressive enough to contain the ghost of quantum mechanics — without the nondeterminism. Taking a naive approach to geometric quantization can be very insightful.
+
+Q: Do you have a PhD?
+A: Nope.
+
+Q: How should I even cite this?
+A: Once it's on arXiv, after someone gives me an endorsement.
+
+But just cite it. That’s all I ask.
+
+Q: You are saying that Grothendieck was wrong?
+A: I'm saying the mathematics community was wrong to worship his personal ideals as self-sufficient truth. There is a richness in chirality and torsion we miss with coordinate-free geometry. Fixed points prove that, despite their ontological consequences.
+
+I still believe in Grothendieck's vision, but when the universe tries to cheat humanity with frustrating problems like quantum mechanics, we cannot drown such a phenomenon in an ocean of generality. Instead what we can do is carve a solution using a river of flow.
+
+Q: Why is this paper written this way?
+A: Sometimes a math paper is just a math paper. Sometimes a math paper is actually a metamath paper that critiques the way we do math by constructive epistemology. You be the judge.
+
+Q: Do you work for/worked with Eva Miranda?
+A: No, but maybe after this I might!
