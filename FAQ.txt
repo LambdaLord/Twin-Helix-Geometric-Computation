@@ -51,7 +51,7 @@ Q: Do you have a PhD?
 A: Nope.
 
 Q: How should I even cite this?
-A: Once it's on arXiv, after someone gives me an endorsement.
+A: Once it's on arXiv, after someone gives me an endorsement. Use the DOI on this page as of now.
 
 But just cite it. That’s all I ask.
 
