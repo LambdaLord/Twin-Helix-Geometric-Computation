@@ -42,9 +42,9 @@ The fact that it just so happens to solve several decades-long standing problems
 
 **A:** I’m saying it might be a Lost Melody: a real number that’s recognizable but not computable.
 
-Normally these two phenomena are separate, but once you turn computation into geometric process it utterly opens Pandora's box by unleashing the pathologies of real computation in the physical world.
+Normally these two phenomena are separate, but once you turn computation into an evolving geometric process it utterly opens Pandora's box by unleashing the pathologies of real computation into the physical world.
 
-Cantor started this process a century and a half ago, and as of right now it seems that our luck avoiding issues with the reals outside of pure math has...just run out.
+Cantor started this process a century and a half ago, and as of right now it seems that our luck avoiding issues with the reals outside of pure math has..._just run out_.
 
 As for why this hasn't been put together before — logicians naturally aren't interested in non-determinism and gauge theory. Why would they be?
 </details>
@@ -52,7 +52,7 @@ As for why this hasn't been put together before — logicians naturally aren't i
 <details>
 <summary><strong>Q: Is this crankery?</strong></summary>
 
-**A:** No. There’s actual category theory, geometric analysis, group theory, and citations to real math papers. I think you understand that no crank would even dream of writing such a paper. It's completely beyond their imagination. I'm far worse.
+**A:** No. There’s actual category theory, geometric analysis, group theory, and citations to real math papers. I think you understand that no crank would even dream of writing such a paper. It's completely beyond their imagination. I'm _far_ worse.
 
 Also: no TOE, no vibes, no rants about infinity or human consciousness. Just helices.
 </details>
@@ -108,7 +108,7 @@ But just cite it. That’s all I ask.
 
 **A:** I'm saying the mathematics community was wrong to worship his personal ideals as self-sufficient truth. There is a richness in chirality and torsion we miss with coordinate-free geometry. Fixed points prove that, despite their ontological consequences.
 
-I still believe in Grothendieck's vision, but when the universe tries to cheat humanity with frustrating problems like quantum mechanics, we cannot drown such a phenomenon in an ocean of generality. Instead what we can do is carve a solution using a river of flow.
+I still believe in Grothendieck's vision, but when the universe tries to cheat humanity with frustrating problems like quantum mechanics, we cannot drown such phenomenona in an ocean of generality. Instead what we can do is carve a solution using a river of flow.
 </details>
 
 <details>
