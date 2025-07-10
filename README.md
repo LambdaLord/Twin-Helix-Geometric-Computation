@@ -4,3 +4,7 @@ While the technical implementation is not especially complex, the conceptual con
 It just so happens two problems I was working on at once---comparative programming languages and a set of experiments modeling unusual finite symmetry groups in low dimensional geometric topology---were actually one and the same.
 
 Please proceed with curiosity and caution.
+
+[![DOI](https://zenodo.org/badge/1007378747.svg)](https://doi.org/10.5281/zenodo.15851975)
+
+
