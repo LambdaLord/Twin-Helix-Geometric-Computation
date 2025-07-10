@@ -44,9 +44,9 @@ The fact that it just so happens to solve several decades-long standing problems
 
 Normally these two phenomena are separate, but once you turn computation into geometric process it utterly opens Pandora's box by unleashing the pathologies of real computation in the physical world.
 
-Cantor started this process a century and a half ago, and as of right now it seems that our luck avoiding issues with the reals outside of pure math has... just run out.
+Cantor started this process a century and a half ago, and as of right now it seems that our luck avoiding issues with the reals outside of pure math has...just run out.
 
-As for why this hasn't been put together before — logicians naturally aren't interested in non-deterministic gauge theory. Why would they be?
+As for why this hasn't been put together before — logicians naturally aren't interested in non-determinism and gauge theory. Why would they be?
 </details>
 
 <details>
@@ -98,7 +98,7 @@ Taking a naive approach to geometric quantization can be very insightful.
 <details>
 <summary><strong>Q: How should I even cite this?</strong></summary>
 
-**A:** Once it's on arXiv — after someone gives me an endorsement.
+**A:** Once it's on arXiv — after someone gives me an endorsement. Until then Zenodo.
 
 But just cite it. That’s all I ask.
 </details>
