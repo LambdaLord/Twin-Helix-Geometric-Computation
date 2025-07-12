@@ -4,13 +4,6 @@ In this work, I construct a manifold comprising of twin helices that explicitly 
 
 ---
 
-Remark 1.1 **Warning.** Please be aware that what follows is the result of me stumbling somewhat accidentally into unexpectedly deep territory. What began as a set of idle explorations led to a series of conjectures that push the boundaries of category theory to its bleeding conceptual limit. Topics addressed include decorated homotopies for fundamental Lie groupoids forcing an extension to the homotopy hypothesis, extensions of discrete fluidic computation to type theory, and the use of differential geometry to model differences between programming languages within an idealized, non-Von Neumann model based on helices and vector spaces. Several meta-theoretical conjectures are also proposed, including new perspectives on Rice’s Theorem.
-While the technical implementation is not especially complex, the conceptual consequences are substantial, and may challenge conventional understandings of computability, geometry, and logic in ways that are...extreme.
-
-It just so happens two problems I was working on at once—comparative programming languages and a set of experiments modeling unusual finite symmetry groups in low dimensional geometric topology—were actually one and the same.
-
-Please proceed with curiosity and caution.
-
 [![DOI](https://zenodo.org/badge/1007378747.svg)](https://doi.org/10.5281/zenodo.15851975)
 
 ---
